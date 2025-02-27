@@ -2,7 +2,7 @@
 
 ### **AI System for Sacanning the Web**
 
-![Project Banner](./assets/project_image_1.png)
+![Project Banner](./project_image_1.png)
 
 ## Overview
 AI Web Analyser is an advanced AI-powered tool that scans, summarises, and evaluates the credibility of online articles. It extracts key insights, detects biases, and provides reliability assessments, offering a valuable solution for researchers, journalists, and the general public to discern factual information from misinformation.
